@@ -21,7 +21,8 @@ while ($true) {
    - Search for "PowerShell" in the Start Menu.
    - Right-click on Windows PowerShell and select `Run as Administrator`.
 
-2. **Create the Script File**:
+2. **Create the Script File or just paste it in**:
+   - You can directly paste in the script to powershell or
    - Open a text editor like Notepad.
    - Copy and paste the script content above.
    - Save the file with a `.ps1` extension, e.g., `AutoKeyPress.ps1`.
