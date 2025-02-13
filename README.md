@@ -40,11 +40,6 @@ while ($true) {
 ## **Stopping the Script**
 - To stop the script, simply press `Ctrl + C` in the PowerShell window.
 
-## **Optional Enhancements**
-- Add a hotkey to start/stop the script.
-- Customize the key pressed or the interval time.
-
----
 
 This script is handy for keeping your session active without manual input. 
 
